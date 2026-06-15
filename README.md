@@ -12,7 +12,7 @@ Built with the standard modern Android stack so each marked component is easy to
 3. Pick an emulator or a connected device and press **Run ▶**.
 4. On the **Login** screen:
    - Choose your **campus location** (footscray / sydney / ort).
-   - **Username** = your first name, **Password** = your student ID (e.g. `s12345678`).
+   - **Username** = student id-> s8171018, **Password** = first_name-> Rajan.
    - Press **Login**.
 
 Run the unit tests from the terminal with:
